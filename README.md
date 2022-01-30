@@ -1,3 +1,3 @@
 # Snakez.jar
-Snake Game Java Ver
+Snake Game Java Version
 Hope Enjoy
